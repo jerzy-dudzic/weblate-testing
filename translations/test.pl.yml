@@ -1,0 +1,56 @@
+panel:
+  edit:
+    edit_test: 'Edycja testu: '
+    new_test: 'Stwórz nowy test'
+    back_to_schooling: 'Powrót do szkolenia'
+    label:
+      title: 'Podaj nazwę testu'
+      description: 'Podaj opis testu'
+      cover: 'Okładka testu'
+      multi_choice: 'Zaznacz jeżeli chcesz aby test był wielokrotnego wyboru.'
+      duration: 'Podaj czas trwania całego testu (w minutach)'
+      test_start_date: 'Data udostępnienia testu'
+      test_duration_in_days: 'Czas trwania testu (w dniach)'
+      required: 'Określ próg zdawalności testu w %'
+      question_no: 'Pytanie nr '
+      no_tags: 'Brak tagów'
+      tags_placeholder: 'Wyszukaj lub stwórz nowy tag'
+      create_new_tag: 'Stwórz nowy tag'
+      movie_added: 'Dodano film: '
+      question_answers: 'Odpowiedzi na pytanie'
+      movie_url: 'URL do pliku z filmem:'
+      questions_max: >
+        Wpisz ile pytań <br class="phone-q-pool">(z całej puli %questionsLength% pytań)
+        <br class="phone-q-pool"> ma się wyświetlać w teście
+    help:
+      single_choice_by_default: 'Wszystkie testy domyślnie są ustawione jako testy jednokrotnego wyboru.'
+      max_cover_weight: 'Waga max. 15MB'
+      questions_count: 'Stworzono pulę pytań w całym teście w ilości: '
+      questions_shuffle: 'Zaznacz jeżeli chcesz aby każdy użytkownik miał inną kolejność pytań.'
+      duration: 'Rekomendujemy aby na każde pytanie dać minimum 30 sekund'
+      required: 'Czyli podaj ile % musi uzyskać użytkownik aby zdać test'
+      question_movie_size: 'Film powinien mieć format MP4 i nie powinien być większy niż 1500MB.'
+      question_image_size: 'Zdjęcie może mieć format JPEG / GIF/ PNG i nie powinno być większe niż 5MB.'
+      access_groups: >
+        Jeżeli nie zaznaczysz żadnej grupy test będzie widoczny tylko dla administratorów, którzy będą
+        mogli go edytować (w tym jego dostępność) lub zlecić jego wykonanie.
+      import: >
+        Eksportuj szablon tworzenia pytań testowych.
+        Wypełnij go i wgraj ponownie do systemu za pomocą przycisku “Importuj pytania”.
+        Pytania nie mogą zawierać zdjęć oraz linków do filmów.
+        Pytania mogą zawierać różną liczbę wariantów odpowiedzi.
+        Ręczne dodanie plików multimedialnych oraz zaznaczenie poprawnych odpowiedzi będzie możliwe po imporcie pytań do systemu.
+        Dodanie pytań z pliku powoduje usunięcie aktualnie wgranych/stworzonych pytań i zastąpienie ich pytaniami z pliku.<br />
+        <strong>Jeżeli chcesz zaznaczyć prawidłowe odpowiedzi bezpośrednio w pliku, komórkę z prawidłową odpowiedzią należy pogrubić.</strong>
+      import_details: >
+        Zalecane jest importowanie danych w pliku wcześniej wyeksportowanym z systemu SalesOn.<br/>
+        Eksport pliku możesz dokonać za pomocą przycisku “Eksportuj szablon”.<br/>
+        Nie wprowadzaj modyfikacji formatu ani opisów kolumn. Wprowadź dane
+        do wyeksportowanego pliku, a następnie dokonaj importu.
+      tags: >
+        Tagi służą do porządkowania pytań w kategorie. Po przypisaniu pytań do stworzonych przez Ciebie
+        kategorii, system generując raport z testu diagnostycznego przedstawi wyniki uczestników w
+        podziale na kategorie. W celu stworzenia kategorii wpisz ją w polu poniżej. Po wpisaniu nazwy
+        kategorii zatwierdź ją klikając "enter" lub wybierz ją za pomocą kursora z listy rozwijalnej.
+      movie_upload: 'Wgraj plik wideo albo wklej pełny adres URL do pliku z filmem (np. link do YouTube)'
+

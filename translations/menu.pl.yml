@@ -1,0 +1,15 @@
+admin:
+  menu:
+    content: 'Treści'
+    articles: 'Artykuły'
+    movies: 'Filmy'
+    audiobooks: 'Audiobooki'
+    tests: 'Wiedza - Testy'
+    test_tags: 'Wiedza - Testy - tagi pytań'
+    schoolings: 'Wiedza - Szkolenia'
+    pro: 'Konta PRO'
+    companies: 'Firmy'
+    users: 'Użytkownicy'
+    licenses: 'Licencje'
+    packages: 'Pakiety'
+    requests: 'Zapytania o szkolenia'
